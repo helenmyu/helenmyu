@@ -6,6 +6,12 @@
 - 👩‍🏫 **Teaching Assistant** @ HKU MSBA Program  
 - 🌱 **ENFP** – Energized by ideas, people, and impact!  
 
+### 🚀 About Me  
+- 🔭 I’m currently working on **building my GitHub profile**.  
+- 🌱 I’m learning **Python, JavaScript, and DevOps**.  
+- 👯 I’m looking to collaborate on **open-source projects**.  
+- 📫 How to reach me: **[helen.miao.yu@gmail.com](mailto:helen.miao.yu@gmail.com)**
+- 
 ### 🔥 **My Superpowers**  
 ✔ **Data-Driven PM** (SQL, Python, A/B Testing)  
 ✔ **Financial Modeling & Analytics** (Excel, Tableau)  
