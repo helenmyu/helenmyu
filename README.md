@@ -1,8 +1,8 @@
-# 👋 Hi, I'm [Your Name] – Product Manager, Data Enthusiast & Wellness Advocate  
+# 👋 Hi, I'm Helen – Product Manager/ Educator & Wellness Advocate  
 
 ### 💼 **What I Do**  
 - 📊 **Product Manager** (FinTech/Data Products)  
-- 🎤 **Part-Time Singer** & Holistic Wellness Explorer  
+- 🎤 **Part-Time (Bathroom + Open mic) Singer** & Holistic Wellness Explorer (Also Yoga Teacher)
 - 👩‍🏫 **Teaching Assistant** @ HKU MSBA Program  
 - 🌱 **ENFP** – Energized by ideas, people, and impact!  
 
